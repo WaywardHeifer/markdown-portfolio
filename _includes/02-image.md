@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![wildflowers](https://s3.eu-west-2.amazonaws.com/growinginteractive/blog/wildflower-meadow-2x.jpg)

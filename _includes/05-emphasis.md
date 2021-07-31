@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- there are a several aspects of myself that i take **pride** in
+- i am ***adaptable***
+- i am a **self starter** and a *self lerner*
+- i am ***strong***
+- i am *perfect* in my **imperfections**
+- i am ***powerful***
+- i am **unapologetic** and *crass*
+- i am ***brave***
+- i am *fragile* like a **bomb**
+- i am ***wayward***
